@@ -1,6 +1,9 @@
 # Number Guessing Game
 
-Welcome to the **Number Guessing Game**! In this game, you will try to guess a random number between 1 and 100.
+This is a simple number guessing game where the user has to guess a number between 1 and 100.
+
+### Project URL:
+You can access the project at [https://github.com/Sandhu221313/Number-Guessing-Game](https://github.com/Sandhu221313/Number-Guessing-Game).
 
 ### Game Description:
 - The computer will randomly select a number between 1 and 100.
