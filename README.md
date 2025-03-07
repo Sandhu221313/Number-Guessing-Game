@@ -3,7 +3,7 @@
 This is a simple number guessing game where the user has to guess a number between 1 and 100.
 
 ### Project URL:
-You can access the project at [https://github.com/Sandhu221313/Number-Guessing-Game](https://github.com/Sandhu221313/Number-Guessing-Game).
+You can access the project at [[https://github.com/Sandhu221313/Number-Guessing-Game](https://github.com/Sandhu221313/Number-Guessing-Game).](https://github.com/Sandhu221313/Number-Guessing-Game/blob/main/number_guessing_game.py)
 
 ### Game Description:
 - The computer will randomly select a number between 1 and 100.
