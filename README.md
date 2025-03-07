@@ -24,3 +24,5 @@ You can access the project at [https://github.com/Sandhu221313/Number-Guessing-G
 ### Installation:
 To play the game on your local machine, follow these steps:
 1. Clone this repository:
+   ```bash
+   git clone https://github.com/Sandhu221313/Number-Guessing-Game.git
